@@ -1,0 +1,6 @@
+
+create .env file with:
+PORT=
+MONGODB_URI=
+TEST_MONGODB_URI=
+JWT_SECRET=
